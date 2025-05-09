@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamdurjoybarua
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java / Python
 - 💞️ I’m looking to collaborate on some highly intuitive projects
 - 📫 How to reach me durjoybarua2024@gmail.com / https://linktr.ee/iamdurjoybarua
 - 😄 Pronouns: he/him
